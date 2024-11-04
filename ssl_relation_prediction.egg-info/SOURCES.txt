@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+ssl_relation_prediction.egg-info/PKG-INFO
+ssl_relation_prediction.egg-info/SOURCES.txt
+ssl_relation_prediction.egg-info/dependency_links.txt
+ssl_relation_prediction.egg-info/top_level.txt

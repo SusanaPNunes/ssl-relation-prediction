@@ -235,9 +235,12 @@ if __name__ == "__main__":
     # datasets = ['FB15K-237', 'WN18RR', 'aristo-v4',
     #             'UMLS', 'KINSHIP', 'NATIONS']
     # datasets = ['FB15K-237']
-    datasets = ['ogbl-wikikg2']
-    datasets = ['ogbl-biokg']
-    datasets = ['custom_graph']
+    # datasets = ['ogbl-wikikg2']
+    # datasets = ['ogbl-biokg']
+    # datasets = ['custom_graph']
+    datasets = ['hetionet']
+    # datasets = ['primeKG']
+    # datasets = ['oregano']
     for d in datasets:
         print("Preparing dataset {}".format(d))
         try:
